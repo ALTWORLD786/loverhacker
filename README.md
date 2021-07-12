@@ -1,1 +1,2 @@
 # loverhacker
+Pkg install git
