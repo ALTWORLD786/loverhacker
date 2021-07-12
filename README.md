@@ -7,5 +7,5 @@ apt install python2
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/ALTWORLD786/loverhacker.git
-cd loverhacker
-Python2lovehacker.py
+cd altworld
+Python2 altworld.py
